@@ -1,0 +1,18 @@
+Upload everything in this folder to the root of your GitHub repository:
+
+https://github.com/harshiththummala08-sys/reactportfolio
+
+After upload, go to:
+Settings -> Pages
+
+Set:
+Source: Deploy from a branch
+Branch: main
+Folder: / (root)
+
+Then wait 1-3 minutes and open:
+https://harshiththummala08-sys.github.io/reactportfolio/
+
+Important:
+Do not upload the original src/index/package files for this manual method.
+Only upload the built files from this folder.
